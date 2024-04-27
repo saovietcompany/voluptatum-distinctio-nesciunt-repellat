@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@saovietcompany/voluptatum-distinctio-nesciunt-repellat",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,36 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/saovietcompany/voluptatum-distinctio-nesciunt-repellat.git"
   },
   "dependencies": {
+    "@saovietcompany/a-quod-pariatur-tempore": "^1.0.0",
+    "@saovietcompany/animi-adipisci-nesciunt-illo": "^1.0.0",
+    "@saovietcompany/asperiores-aperiam-tempore-ipsa": "^1.0.0",
+    "@saovietcompany/commodi-commodi-ut-molestiae": "^1.0.0",
+    "@saovietcompany/cupiditate-omnis-perspiciatis-fuga": "^1.0.0",
+    "@saovietcompany/doloremque-in-atque-ipsa": "^1.0.0",
+    "@saovietcompany/dolorum-quam-dolor-provident": "^1.0.0",
+    "@saovietcompany/ducimus-delectus-quia-exercitationem": "^1.0.0",
+    "@saovietcompany/eius-a-et-tempore": "^1.0.0",
+    "@saovietcompany/et-cumque-ab-accusantium": "^1.0.0",
+    "@saovietcompany/fugiat-magnam-sunt-labore": "^1.0.0",
+    "@saovietcompany/hic-molestias-cumque-doloribus": "^1.0.0",
+    "@saovietcompany/impedit-consequatur-illum-inventore": "^1.0.0",
+    "@saovietcompany/ipsum-enim-rem-esse": "^1.0.0",
+    "@saovietcompany/labore-nulla-animi-amet": "^1.0.0",
+    "@saovietcompany/laudantium-nostrum-doloremque-expedita": "^1.0.0",
+    "@saovietcompany/maxime-quibusdam-quod-voluptatum": "^1.0.0",
+    "@saovietcompany/omnis-amet-cupiditate-molestias": "^1.0.0",
+    "@saovietcompany/provident-corrupti-laborum-voluptatibus": "^1.0.0",
+    "@saovietcompany/quas-nesciunt-laudantium-omnis": "^1.0.0",
+    "@saovietcompany/quos-sequi-tempora-repellendus": "^1.0.0",
+    "@saovietcompany/rem-expedita-adipisci-maxime": "^1.0.0",
+    "@saovietcompany/soluta-error-repellendus-voluptas": "^1.0.0",
+    "@saovietcompany/voluptates-harum-incidunt-fugiat": "^1.0.0",
+    "@saovietcompany/voluptates-nisi-ducimus-quasi": "^1.0.0",
+    "coding-course-api": "^0.1.2",
+    "saoviet-caculator": "^0.1.2",
+    "saoviet-caculator-module": "^0.1.1"
   }
 }
